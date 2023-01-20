@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # dicee
 
 A new Flutter project.
